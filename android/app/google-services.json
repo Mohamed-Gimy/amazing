@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008816001592",
+    "project_id": "my-awesome-38c15",
+    "storage_bucket": "my-awesome-38c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008816001592:android:2a7bb3fd4ea061b65f4ccd",
+        "android_client_info": {
+          "package_name": "com.example.amazing_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008816001592-3goks559ctau1svqpjb4afo46hj5l53t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_4HzAu-n615xyRpskONfn23Vu5fwxsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008816001592-3goks559ctau1svqpjb4afo46hj5l53t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
